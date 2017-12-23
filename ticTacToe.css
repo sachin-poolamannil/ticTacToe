@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+td {
+  width:100px;
+  height: 100px;
+  text-align: center;
+}
+
+#displayGameStatistics {
+  margin-top: 10px;
+}
